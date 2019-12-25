@@ -1,0 +1,8 @@
+ body{
+	 background: url(images/moon3.jpg);
+ background-position: center;
+ background-attachment: contain;
+ background-size: cover;
+    background-size: 100vw 100vh;
+ background-attachment: fixed;
+    margin: 0;}
